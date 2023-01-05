@@ -25,4 +25,6 @@ eg:..,, point=np.array([[8,7],[7,322],[262,322],[576,327],[585,17],[280,8]])
 
 
 python3 pothole_main_video.py | tee result_pothole-5.txt
+
+######################################################################
 ![](final_output.jpg)
