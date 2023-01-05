@@ -1,4 +1,4 @@
-# This is the pothole project 
+# This is the pothole project with yolov5
 To enviroment to run the project reuqires python 3.8 and yolov5.
 
 there are two files to be exuted one for image other for videos.
